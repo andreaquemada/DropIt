@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:2:1-67:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b1aa2f0e5481c4dc0521fa7066122757\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\4bfa9851c2b400bfcd5428b6710d0cd7\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a11ae86437f423f887ba8506dec18b5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\b1be1994e32b9a2a989e96fa19ca604a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.npanigrahy:Custom-Calendar-View:v1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\Custom-Calendar-View-v1.1.aar\e158cca46aeec9bcc215b4cec0493bca\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\412bdebc2f8e4c711d250fb764507e08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d1172b1554ab9e1a42a9707572645e8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\72fabaec1fbfb189f7131925f7ff2c27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9b606882ef4ed75e0e91b6c75319d0d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6a0d690867d0dd6f2528af094b503762\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\94e931dc5a3beb0551fa27a7143b8b8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11fae422edd6a8328b6a6867b12a2c90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\287d2d7bc61effa460276cbd5df7c71a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e89d5f4076fa13c810adc7d321f1db85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fb478b2e51e07a781e8574b2e6fb7a4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fd14bbf0009406cbd35a9098150801c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f9e1bc324bfe4e322b4f90979b122f47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\52f83f94cecde785c168601aee23de02\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\94d46d3f04227c3f3cd8a1e63c3ec68b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d55a07a8369bd87ddf632d8c6afd8409\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:4:5-67
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:6:5-35
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:19:5-95
+	tools:node
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:19:73-92
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:19:22-72
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:22:5-24:34
+	android:required
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:24:9-32
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:23:9-53
+application
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:26:5-63:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\4bfa9851c2b400bfcd5428b6710d0cd7\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\4bfa9851c2b400bfcd5428b6710d0cd7\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d1172b1554ab9e1a42a9707572645e8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d1172b1554ab9e1a42a9707572645e8\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:30:9-31
+	android:icon
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:29:9-40
+	android:allowBackup
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:31:9-41
+activity#com.bactrack.backtrack_mobile.bactrackandroidsdkdemo.SplashScreen
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:screenOrientation
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:34:13-48
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.bactrack.backtrack_mobile.bactrackandroidsdkdemo.FirstScreen
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:42:9-45:57
+	android:label
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:45:13-45
+	android:icon
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:44:13-46
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:43:13-40
+activity#com.bactrack.backtrack_mobile.bactrackandroidsdkdemo.MainActivity
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:46:9-50
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:46:19-47
+receiver#com.bactrack.backtrack_mobile.bactrackandroidsdkdemo.BootReceiver
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:48:9-56:20
+	android:enabled
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:48:19-47
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:52:17-79
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:52:25-76
+category#android.intent.category.HOME
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:54:17-73
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:54:27-70
+receiver#com.bactrack.backtrack_mobile.bactrackandroidsdkdemo.AlarmNotificationReceiver
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:57:9-62
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:57:19-60
+service#com.bactrack.backtrack_mobile.bactrackandroidsdkdemo.MyService
+ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:59:9-62:47
+	android:enabled
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:61:13-35
+	android:exported
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml:60:13-38
+uses-sdk
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b1aa2f0e5481c4dc0521fa7066122757\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b1aa2f0e5481c4dc0521fa7066122757\AndroidManifest.xml:20:5-44
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\4bfa9851c2b400bfcd5428b6710d0cd7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\4bfa9851c2b400bfcd5428b6710d0cd7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a11ae86437f423f887ba8506dec18b5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a11ae86437f423f887ba8506dec18b5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\b1be1994e32b9a2a989e96fa19ca604a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\b1be1994e32b9a2a989e96fa19ca604a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\412bdebc2f8e4c711d250fb764507e08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\412bdebc2f8e4c711d250fb764507e08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d1172b1554ab9e1a42a9707572645e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d1172b1554ab9e1a42a9707572645e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\72fabaec1fbfb189f7131925f7ff2c27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\72fabaec1fbfb189f7131925f7ff2c27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9b606882ef4ed75e0e91b6c75319d0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9b606882ef4ed75e0e91b6c75319d0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6a0d690867d0dd6f2528af094b503762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6a0d690867d0dd6f2528af094b503762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\94e931dc5a3beb0551fa27a7143b8b8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\94e931dc5a3beb0551fa27a7143b8b8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11fae422edd6a8328b6a6867b12a2c90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11fae422edd6a8328b6a6867b12a2c90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\287d2d7bc61effa460276cbd5df7c71a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\287d2d7bc61effa460276cbd5df7c71a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e89d5f4076fa13c810adc7d321f1db85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e89d5f4076fa13c810adc7d321f1db85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fb478b2e51e07a781e8574b2e6fb7a4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fb478b2e51e07a781e8574b2e6fb7a4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fd14bbf0009406cbd35a9098150801c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fd14bbf0009406cbd35a9098150801c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f9e1bc324bfe4e322b4f90979b122f47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f9e1bc324bfe4e322b4f90979b122f47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\52f83f94cecde785c168601aee23de02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\52f83f94cecde785c168601aee23de02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\94d46d3f04227c3f3cd8a1e63c3ec68b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\94d46d3f04227c3f3cd8a1e63c3ec68b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d55a07a8369bd87ddf632d8c6afd8409\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d55a07a8369bd87ddf632d8c6afd8409\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andre\Desktop\MT\BACtrackAndroidSDKDemo_a0K\app\src\main\AndroidManifest.xml
